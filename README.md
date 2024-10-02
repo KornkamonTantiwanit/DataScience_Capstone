@@ -9,3 +9,5 @@ This repository is for the edX course Data Science: Capstone from HarvardX. It i
    The file is zipped due to Github's policy and limitation. When extracted, it is a csv format downloaded from https://sgrudata.github.io/. The electricity metered data in 2018 is the holdout test data. 
 4) 2019Floor2.zip:  
    The csv file was also downloaded from https://sgrudata.github.io/, then zip and upload to Github. The electricity metered data in 2019 is the training data (targets). 
+
+The PDF, Markdown, and R Script files are for running those data.
