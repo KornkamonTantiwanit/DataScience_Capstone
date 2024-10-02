@@ -8,5 +8,5 @@ This repository is for the edX course Data Science: Capstone from HarvardX. It i
 3) 2019Floor2.zip:  
    The csv file was also downloaded from https://sgrudata.github.io/, then zip and upload to Github. The electricity metered data in 2019 is the training data (targets). 
 
-The python notebook file is for download the weather data using a Python package called meteostat.
+The python notebook file is for download the weather data using a Python package called meteostat.  
 The PDF, Markdown, and R Script files are for running those data.
