@@ -1,7 +1,7 @@
 # DataScience_Capstone
 
 This repository is for the edX course Data Science: Capstone from HarvardX. It is a "choose your own project" for IDV Learners.  
-The three files for model training and evaluation including:  
+The three data files for model training and evaluation including:  
 1) WeatherData_hourly.zip:
    The ziped file is a training data (features) which was downloaded from the Python notebook, and saved as to csv format.
 2) 2018Floor2.zip:  
